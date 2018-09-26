@@ -7,4 +7,5 @@ public:
 	number somma(number n2);
 private:
 	int value;
+	//ciao
 };
